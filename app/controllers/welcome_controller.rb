@@ -5,4 +5,3 @@ class WelcomeController < ApplicationController
   end
 
 end
- 
